@@ -9,7 +9,7 @@ Khi một khoản nợ được coi là không thể thu hồi, ngân hàng vẫ
 
 Đầu tiên, tôi upload dataset từ ngân hàng để hiểu và đánh giá sơ bộ.
 
-```
+```python
 import pandas as pd
 import numpy as np
 df = pd.read_csv('datasets/bank_data.csv') 
