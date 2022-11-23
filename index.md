@@ -8,8 +8,11 @@
 ![image](https://user-images.githubusercontent.com/118591981/203533781-7f60f923-392f-4744-8954-dc5ee6034d4f.png)
 
 ---
-[(SQL)Tối ưu hóa doanh thu bán lẻ đồ thể thao](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[(SQL)Tối ưu hóa doanh thu bán lẻ đồ thể thao](/project02.md)
+![image](https://user-images.githubusercontent.com/118591981/203534872-616d4284-425d-4707-a427-f2a438e23365.png)
+![image](https://user-images.githubusercontent.com/118591981/203534920-9ee0fb3a-0cf6-4206-9cf1-de32961e3177.png)
+![image](https://user-images.githubusercontent.com/118591981/203534979-19aeaeca-3290-4657-ae94-4dc316634415.png)
+![image](https://user-images.githubusercontent.com/118591981/203535043-2d635801-e596-47b1-8b7b-20a158e67a97.png)
 
 ---
 [(Python)Phân tích Marketing: Dự đoán sự rời bỏ của khách hàng](http://example.com/)
