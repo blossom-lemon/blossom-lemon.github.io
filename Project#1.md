@@ -9,18 +9,21 @@ Khi một khoản nợ được coi là không thể thu hồi, ngân hàng vẫ
 
 Đầu tiên, tôi upload dataset từ ngân hàng để hiểu và đánh giá sơ bộ.
 
+```javascript
 import pandas as pd
 import numpy as np
 df = pd.read_csv('datasets/bank_data.csv') 
 df.head()
-
-
+}
+```
 
 ### 2. Assess assumptions on which statistical inference will be based
 
 ```javascript
-if (isAwesome){
-  return true
+import pandas as pd
+import numpy as np
+df = pd.read_csv('datasets/bank_data.csv') 
+df.head()
 }
 ```
 
