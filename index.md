@@ -15,15 +15,15 @@
 ![image](https://user-images.githubusercontent.com/118591981/203535043-2d635801-e596-47b1-8b7b-20a158e67a97.png)
 
 ---
-[(Python)Phân tích Marketing: Dự đoán sự rời bỏ của khách hàng](http://example.com/)
+[(Python)Phân tích Marketing: Dự đoán sự rời bỏ của khách hàng](/project03.md)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[(Python)Risk and Returns: The Sharpe Ratio](/sample_page)
+[(Python)Risk and Returns: The Sharpe Ratio](/project04.md)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[(Power BI)HR Analytics](/sample_page)
+[(Power BI)HR Analytics](/project05.md)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ### Mục lục
