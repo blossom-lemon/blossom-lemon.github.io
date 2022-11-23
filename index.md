@@ -4,8 +4,8 @@
 
 ### Dự án thực hành
 
-[(Python)Khoản nợ nào xứng đáng với nỗ lực của ngân hàng?](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[(Python)Khoản nợ nào xứng đáng với nỗ lực của ngân hàng?](/Project#1)
+![image](https://user-images.githubusercontent.com/118591981/203533781-7f60f923-392f-4744-8954-dc5ee6034d4f.png)
 
 ---
 [(SQL)Tối ưu hóa doanh thu bán lẻ đồ thể thao](/pdf/sample_presentation.pdf)
