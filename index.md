@@ -2,28 +2,34 @@
 
 ---
 
-### Category Name 1 
+### Dự án thực hành
 
-[(Python) Khoản nợ nào ngân hàng nên thu hồi?](/sample_page)
+[(Python)Khoản nợ nào xứng đáng với nỗ lực của ngân hàng?](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[(SQL)Tối ưu hóa doanh thu bán lẻ đồ thể thao](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+[(Python)Phân tích Marketing: Dự đoán sự rời bỏ của khách hàng](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
+[(Python)Risk and Returns: The Sharpe Ratio](/sample_page)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
-### Category Name 2
+---
+[(Power BI)HR Analytics](/sample_page)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+### Mục lục
+
+- [(Python)Khoản nợ nào xứng đáng với nỗ lực của ngân hàng?](http://example.com/)
+- [(SQL)Tối ưu hóa doanh thu bán lẻ đồ thể thao](http://example.com/)
+- [(Python)Phân tích Marketing: Dự đoán sự rời bỏ của khách hàng](http://example.com/)
+- [(Python)Risk and Returns: The Sharpe Ratio](http://example.com/)
+- [(Power BI)HR Analytics](http://example.com/)
 
 ---
 
