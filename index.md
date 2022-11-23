@@ -4,7 +4,7 @@
 
 ### Dự án thực hành
 
-[(Python)Khoản nợ nào xứng đáng với nỗ lực của ngân hàng?](/Project#1)
+[(Python)Khoản nợ nào xứng đáng với nỗ lực của ngân hàng?](/project01.md)
 ![image](https://user-images.githubusercontent.com/118591981/203533781-7f60f923-392f-4744-8954-dc5ee6034d4f.png)
 
 ---
