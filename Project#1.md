@@ -16,6 +16,7 @@ df = pd.read_csv('datasets/bank_data.csv')
 df.head()
 }
 ```
+![image](https://user-images.githubusercontent.com/118591981/203523919-6555282a-7814-428c-ac01-0745b4de8407.png)
 
 ### 2. Assess assumptions on which statistical inference will be based
 
