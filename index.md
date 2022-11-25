@@ -16,11 +16,11 @@
 
 ---
 [(Python)Phân tích Marketing: Dự đoán sự rời bỏ của khách hàng](/project03.md)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+![image](https://user-images.githubusercontent.com/118591981/203973109-928a9bc0-cc3a-4e21-bb8c-54cd9ad4c592.png)
 
 ---
 [(Python)Risk and Returns: The Sharpe Ratio](/project04.md)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+![image](https://user-images.githubusercontent.com/118591981/203973719-308c2e55-88ef-477f-96f8-4f5ead52285e.png)
 
 ---
 [(Power BI)HR Analytics](/project05.md)
