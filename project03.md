@@ -203,16 +203,14 @@ from sklearn.metrics import precision_score
 precision_score(y_test, y_pred)
 ```
 
-<script.py> output:
-    0.8292682926829268
+0.8292682926829268
 
 ```Python
 from sklearn.metrics import recall_score
 recall_score(y_test, y_pred)
 ```
 
-<script.py> output:
-    0.6415094339622641
+0.6415094339622641
     
 **ROC curve**
 
