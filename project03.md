@@ -234,8 +234,7 @@ from sklearn.metrics import roc_auc_score
 roc_auc_score(y_test, y_pred_prob)
 ```
 
-<script.py> output:
-    0.8938011695906432
+0.8938011695906432
 
 **Tính F1_score**
 
@@ -247,8 +246,7 @@ from sklearn.metrics import f1_score
 f1_score(y_test, y_pred)
 ```
 
-<script.py> output:
-    0.723404255319149
+0.723404255319149
 
 ### 4. Tinh chỉnh Model
 
