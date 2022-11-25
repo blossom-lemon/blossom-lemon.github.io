@@ -190,7 +190,7 @@ clf.fit(X_train, y_train)
 y_pred = clf.predict(X_test)
 from sklearn.metrics import confusion_matrix
 confusion_matrix(y_test,y_pred)
-```Python
+```
 
 ![image](https://user-images.githubusercontent.com/118591981/203965788-627956d7-cb7d-4948-9537-11a0c755d39e.png)
 
@@ -216,6 +216,7 @@ recall_score(y_test, y_pred)
     
 **ROC curve**
 
+```Python
 y_pred_prob = clf.predict_proba(X_test)[:, 1]
 from sklearn.metrics import roc_curve
 fpr, tpr, thresholds = roc_curve(y_test, y_pred_prob)
@@ -224,6 +225,7 @@ plt.xlabel("False Positive Rate")
 plt.ylabel("True Positive Rate")
 plt.plot([0, 1], [0, 1], "k--")
 plt.show()
+```
 
 ![image](https://user-images.githubusercontent.com/118591981/203966936-b7447c2d-6198-40db-b9c0-9ac618fafc3c.png)
 
@@ -262,8 +264,7 @@ grid_search.fit(X, y)
 grid_search.best_params_
 ```
 
-<script.py> output:
-    {'max_features': 'log2'}
+{'max_features': 'log2'}
 
 ```Python
 from sklearn.model_selection import RandomizedSearchCV
@@ -276,8 +277,7 @@ random_search.fit(X,y)
 random_search.best_params_
 ```
 
-<script.py> output:
-    {'bootstrap': True, 'criterion': 'entropy', 'max_depth': None, 'max_features': 10}
+{'bootstrap': True, 'criterion': 'entropy', 'max_depth': None, 'max_features': 10}
 
 ```Python
 importances = clf.feature_importances_
@@ -288,13 +288,7 @@ plt.show()
 
 ![image](https://user-images.githubusercontent.com/118591981/203969707-57fc68b6-2b7c-48e9-a16f-031e58cfcd46.png)
 
-6 biến mới tôi sẽ nhóm lại là:
-•	Region_Code
-•	Cost_Call
-•	Total_Charge
-•	Total_Minutes
-•	Total_Calls
-•	Min_Call
+6 biến mới tôi sẽ nhóm lại là: Region_Code, Cost_Call, Total_Charge, Total_Minutes, Total_Calls, Min_Call
 
 Kiểm thử xem model độ chính xác giảm hay tăng với 6 biến này:
 
