@@ -301,8 +301,7 @@ clf.fit(X_train, y_train)
 clf.score(X_test,y_test)
 ```
 
-<script.py> output:
-    0.954
+output: 0.954
 
 Ta thấy độ chính xác của model precision_score cao hơn: 95.4% so với 94.1% trước đó.
 
@@ -317,8 +316,7 @@ clf.fit(X_train, y_train)
 clf.score(X_test,y_test)
 ```
 
-<script.py> output:
-    0.954
+output: 0.954
 
 Kết quả ra tương tự. 
 
