@@ -26,6 +26,9 @@
 [(Power BI)HR Analytics](/project05.md)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
+---
+[(Python)Phân tích doanh số bán hàng tự động](/project06.md)
+
 ### Mục lục
 
 - [(Python)Khoản nợ nào xứng đáng với nỗ lực của ngân hàng?](http://example.com/)
