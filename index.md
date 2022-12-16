@@ -25,11 +25,11 @@
 ![image](https://user-images.githubusercontent.com/118591981/203973109-928a9bc0-cc3a-4e21-bb8c-54cd9ad4c592.png)
 
 ---
-[(Power BI)HR Analytics](https://app.powerbi.com/groups/me/reports/97394649-a696-42ae-85a9-6717fdcfa127?ctid=68cdfebb-157b-4846-ba2f-d196a9124ac0&pbi_source=linkShare&bookmarkGuid=3a8e6d67-aaff-41b8-96b6-858619766787))
+[(Power BI)HR Analytics](/project04.md)
 ![image](https://user-images.githubusercontent.com/118591981/208185344-f6a1acac-ac16-41ea-9f74-76306720264c.png)
 
 ---
-[(Python)Phân tích doanh số bán hàng tự động](/project04.md)
+[(Python)Phân tích doanh số bán hàng tự động](/project05.md)
 
 
 ---
